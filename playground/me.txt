@@ -1,0 +1,7 @@
+
+{{#user}
+Name: Madhav Kumar
+Skills: HTML, CSS, JS, React.js ,
+Email: madhavxman@gmail.com
+{{/user}}
+
